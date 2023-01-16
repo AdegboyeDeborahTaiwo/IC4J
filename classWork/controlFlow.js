@@ -23,7 +23,7 @@
 // another varibale login
 
 // let message;
-let login = prompt("What is your position? ");
+//let login = prompt("What is your position? ");
 
 // if(login == 'Director'){
 //     message = "Greetings"
@@ -36,6 +36,7 @@ let login = prompt("What is your position? ");
 // }
 // alert(message)
 
+/*
 let message =
   login == "Employee"
     ? alert("Hello")
@@ -44,3 +45,46 @@ let message =
     : login == ""
     ? alert("No Login")
     : "";
+
+
+
+    while (condition){
+      // code to executive
+    }
+    */
+
+    // ittetion 
+   //let i = 0
+   //while (i< 5){
+ //   console.log(i)
+   // i++
+ // }
+  
+
+  //let sum = 0
+
+ // while (true){
+   // let valuem =+ prompt ("enter a number: ")
+   // if (!value) break;
+   // sum += value
+//  }
+  //alert("sum: "+ sum)
+
+//  for(let i=0; i<10;i++)
+//if(i%2==0) continue
+//alert (i)
+
+
+//  let i = 3;
+//  while(i){
+//  console.log(i--)
+//  } // 3,2,1
+
+//for(; i; 1--){
+  //console.log(i)
+//}
+
+
+for(let i=0;1<3;1++){
+  console.log (i)
+}
